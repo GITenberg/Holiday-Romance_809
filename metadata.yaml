@@ -1,0 +1,32 @@
+_repo: Holiday-Romance_809
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: This beginning-part is not made out of anybody's head, you know. It's
+  real. You must believe this beginning-part more than what comes after, else you
+  won't understand how what comes after came to be written. You must believe it all;
+  but you must believe this most, please. I am the editor of it. Bob Redforth (he's
+  my cousin, and shaking the table on purpose) wanted to be the editor of it; but
+  I said he shouldn't because he couldn't.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children and adults -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+title: Holiday Romance
+url: http://www.gutenberg.org/ebooks/809
