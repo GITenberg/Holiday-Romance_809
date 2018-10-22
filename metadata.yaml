@@ -1,5 +1,5 @@
 _repo: Holiday-Romance_809
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Children and adults -- Fiction'
 - !lcsh 'Short stories'
 - !lcc 'PR'
+- GITenberg
 title: Holiday Romance
 url: http://www.gutenberg.org/ebooks/809
